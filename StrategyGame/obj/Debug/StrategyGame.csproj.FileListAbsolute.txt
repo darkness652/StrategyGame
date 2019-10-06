@@ -1,0 +1,45 @@
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe.config
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\bin\Debug\StrategyGame.pdb
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csprojResolveAssemblyReference.cache
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\MainWindow.g.cs
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\App.g.cs
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.cache
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.lref
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\MainWindow.baml
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.g.resources
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.Properties.Resources.resources
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.GenerateResource.Cache
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.CoreCompileInputs.cache
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.exe
+c:\users\alexander\source\repos\StrategyGame\StrategyGame\obj\Debug\StrategyGame.pdb
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe.config
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\bin\Debug\StrategyGame.pdb
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\MainWindow.g.cs
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\App.g.cs
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.cache
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.lref
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\MainWindow.baml
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.g.resources
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.Properties.Resources.resources
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.GenerateResource.Cache
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.CoreCompileInputs.cache
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.exe
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.pdb
+D:\Код\WPF проекты\Наследование\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csprojResolveAssemblyReference.cache
+C:\Users\666\Desktop\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe.config
+C:\Users\666\Desktop\StrategyGame\StrategyGame\bin\Debug\StrategyGame.exe
+C:\Users\666\Desktop\StrategyGame\StrategyGame\bin\Debug\StrategyGame.pdb
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csprojAssemblyReference.cache
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\MainWindow.g.cs
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\App.g.cs
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.cache
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame_MarkupCompile.lref
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\MainWindow.baml
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.g.resources
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.Properties.Resources.resources
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.GenerateResource.cache
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.csproj.CoreCompileInputs.cache
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.exe
+C:\Users\666\Desktop\StrategyGame\StrategyGame\obj\Debug\StrategyGame.pdb

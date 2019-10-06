@@ -1,0 +1,58 @@
+﻿<Window x:Class="StrategyGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StrategyGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="666.744" Width="859.628"  
+        WindowState="Maximized" ResizeMode="NoResize"
+        Loaded="Window_Loaded"
+        >
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140*"/>
+            <ColumnDefinition Width="377*"/>
+        </Grid.ColumnDefinitions>
+        <Border  Grid.Row="1" BorderThickness="2" BorderBrush="Black">
+            <Grid Background="#FF725A5A" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="77*"/>
+                    <RowDefinition Height="39*"/>
+                    <RowDefinition Height="47*"/>
+                    <RowDefinition Height="40*"/>
+                    <RowDefinition Height="29*"/>
+                    <RowDefinition Height="32*"/>
+                    <RowDefinition Height="26*"/>
+                    <RowDefinition Height="29*"/>
+                </Grid.RowDefinitions>
+                <Image Name="playerImg"></Image>
+                <Button Name="start" Content="Игрок подготовился к началу боя" Grid.Row="1" Click="Start_Click" />
+                <Button Name="Button_Clean"  Content="очистить игру" Grid.Row="7" Click="Button_Clean_Click"/>
+                <Button Name="Button_ChangePlayer" Content="передать ход" Grid.Row="2" Click="Button_ChangePlayer_Click" />
+                <Button Name="BuyingItem" Content="Button_BuyUnit" Grid.Row="3" Click="BuyingItem_Click"  />
+            </Grid>
+        </Border>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Border  Grid.Row="0" BorderThickness="2" BorderBrush="Black">
+                <Grid  Name="troopsPanelPlayer1" Background="#FF725A5A" ></Grid>
+            </Border>
+            <Border Grid.Row="1" BorderThickness="2" BorderBrush="Black" >
+                <Canvas Name="field" Background="#FF725A5A" >
+                    <Rectangle    ></Rectangle>
+
+
+                </Canvas>
+            </Border>
+            <Border  Grid.Row="2" BorderThickness="2" BorderBrush="Black">
+                <Grid  Name="troopsPanelPlayer2" Background="#FF725A5A" ></Grid>
+            </Border>
+        </Grid>
+
+    </Grid>
+</Window>
